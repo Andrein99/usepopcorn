@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Project
+Project for rating movies using the local storage from browser and fetching data from ombdb [API](https://www.omdbapi.com/) (For using the project you have to create a .env file in the root folder and create an environmental variable called REACT_APP_OMDB_API_KEY="YOUR_OMDB_API_KEY_GOES_HERE"). The project uses useState, useEffect, useRef, and custom hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
